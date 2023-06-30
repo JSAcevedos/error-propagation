@@ -1,4 +1,4 @@
-# error-propagation
+# Error-Propagation
 
 This program take the data from an experiment and uses this data to calculate the error propagation for the operations that result in e/m relation.
 
